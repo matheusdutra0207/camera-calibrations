@@ -4,9 +4,9 @@
         "height": 728,
         "width": 1288
     },
-    "id": "2",
+    "id": "1",
     "extrinsic": {
-        "to": "2",
+        "to": "1",
         "tf": {
             "shape": {
                 "dims": [
